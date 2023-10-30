@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://vichuroxx.github.io/Portfolio/](https://vichuroxx.github.io/Portfolio/) -->
 
-I am currently persuing my M.Tech in Computer Science from Amrita School of Engineering(ASE), Amritapuri Campus. I am a fresher aspired to work on challenging projects which helps me to grow myself and contribute something to the community. I am able to manage a university based educational website (ktuqbank.com) and being a part of working on the website, i was able to do a couple of subprojects. I also got an opportunity to mentor a CMS based Web Developement workshop in my UG college days, i also could be a part of the college web team.
+I describe myself as a passionate Automation Engineer with ideas & POC's becoming my sleep thieves and dream weavers. I enjoy taking projects and challenges from ideation to fruition.
 
 Yes..!! Learning continues 😊
 
