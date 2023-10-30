@@ -9,7 +9,7 @@ I am currently persuing my M.Tech in Computer Science from Amrita School of Engi
 
 Yes..!! Learning continues 😊
 
-- 📫 How to reach me **vichuroxx@gmail.com**
+- 📫 How to reach me **vishnunarayanvenugopal@gmail.com**
 
 <!-- ### Blogs posts
  BLOG-POST-LIST:START -->
