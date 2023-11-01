@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Narayan V</h1>
-<h3 align="center">Automation Engineer | Scripting & Process Optimization Specialis</h3>
+<h3 align="center">Automation Engineer | Scripting & Process Optimization Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vichuroxx&label=Profile%20views&color=0e75b6&style=flat" alt="vichuroxx" /> </p>
 
