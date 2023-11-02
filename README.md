@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://vichuroxx.github.io/Portfolio/](https://vichuroxx.github.io/Portfolio/) -->
 
-I describe myself as a passionate Automation Engineer with ideas & POC's becoming my sleep thieves and dream weavers. I enjoy taking projects and challenges from ideation to fruition.
+I describe myself as a passionate Automation Engineer with ideas & POC's becoming my sleep thieves and dream weavers. I enjoy taking projects and challenges from ideation to fruition. My expertise lies in Python, Google Appscript, and database management. I've successfully completed numerous projects involving web scraping, document parsing, and chatbot development. My experience extends to artificial intelligence and machine learning, allowing me to tackle complex business problems with efficient solutions.
 
 Yes..!! Learning continues 😊
 
