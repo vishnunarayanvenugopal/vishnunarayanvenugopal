@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishnu Narayan V</h1>
 <h3 align="center">Scripting & Automation Expert | Automate Your Workflow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vichuroxx&label=Profile%20views&color=0e75b6&style=flat" alt="vichuroxx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnunarayanvenugopal&label=Profile%20views&color=0e75b6&style=flat" alt="vichuroxx" /> </p>
 
-<!-- - 👨‍💻 All of my projects are available at [https://vichuroxx.github.io/Portfolio/](https://vichuroxx.github.io/Portfolio/) -->
+<!-- - 👨‍💻 All of my projects are available at [https://vishnunarayanvenugopal.github.io/Portfolio/](https://vishnunarayanvenugopal.github.io/Portfolio/) -->
 
-I describe myself as a passionate Automation Engineer with ideas & POC's becoming my sleep thieves and dream weavers. I enjoy taking projects and challenges from ideation to fruition. My expertise lies in Python, Google Appscript, and database management. I've successfully completed numerous projects involving web scraping, document parsing, and chatbot development. My experience extends to artificial intelligence and machine learning, allowing me to tackle complex business problems with efficient solutions.
+I am a passionate Automation Engineer with ideas & POC's becoming my sleep thieves and dream weavers. I enjoy taking projects and challenges from ideation to fruition. My expertise lies in Python, Google Appscript, and database management. I've successfully completed numerous projects involving web scraping, document parsing, and chatbot development. My experience extends to artificial intelligence and machine learning, allowing me to tackle complex business problems with efficient solutions.
 
 - 📫 How to reach me **vishnunarayanvenugopal@gmail.com**
 
@@ -30,8 +30,8 @@ I describe myself as a passionate Automation Engineer with ideas & POC's becomin
 	  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 	 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vichuroxx&show_icons=true&locale=en&layout=compact" alt="vichuroxx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnunarayanvenugopal&show_icons=true&locale=en&layout=compact" alt="vichuroxx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vichuroxx&show_icons=true&locale=en" alt="vichuroxx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnunarayanvenugopal&show_icons=true&locale=en" alt="vichuroxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vichuroxx&" alt="vichuroxx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnunarayanvenugopal&" alt="vichuroxx" /></p>
